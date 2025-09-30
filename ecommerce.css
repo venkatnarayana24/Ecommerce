@@ -1,0 +1,54 @@
+
+.navbar{
+    background-color: rgb(116, 189, 158);
+}
+.navbar-brand{
+    width:2vw;
+}
+.nav-item .nav-link{
+    color: black;
+    margin-left:10px;
+    font-weight: bold;
+}
+.d-flex{
+    margin-right: 20px;
+}
+.btn{
+    font-weight: bold;
+}
+input[type="search"]{
+    width: 400px;
+}
+
+#Home{
+    background-image: url('environmentally-friendly-disposable-recyclable-tableware-paper-food-boxes-plates-cutlery-cornstarch-green-grass-background.jpg');
+    background-position:center;
+    background-size: cover;
+
+    height:70vh ;
+}
+.hcontent h1{
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 3px 4px black;
+}
+.heading{
+    color: green;
+    padding: 20px;
+}
+.acontent{
+    background-color: #f06795;
+    padding: 20px;    
+}
+.acontent h3{
+    color: White;
+    font-weight: bolder;
+}
+.acontent p{
+    color:white;
+    font-weight: bolder;
+    line-height: 30px;
+}
+.d-block{
+    aspect-ratio: 2/1.1;
+}
