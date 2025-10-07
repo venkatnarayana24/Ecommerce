@@ -60,3 +60,28 @@ input[type="search"]{
     border-radius: 10px 30px;
     margin-bottom: 5px;
 }
+#footer{
+    background-color: rgba(32, 32, 225, 0.837);
+}
+.fcontent h4{
+    color:white;
+    font-weight: bolder;
+}
+.fcontent p{
+    color: rgba(255, 255, 255, 0.805);
+    font-weight: bold;
+}
+.fcontent p:hover{
+    color: white;
+    cursor:pointer;
+
+}
+.icons .fa-brands{
+    font-size: 25px;
+    color: white;
+    margin-right: 1%;
+}
+.icons .fa-brands:hover{
+    color: rgba(0, 0, 255, 0.429);
+    cursor: pointer;
+}
